@@ -1,0 +1,14 @@
+{
+  "name": "subtitles_shifter",
+  "version": "1.0.0",
+  "description": "to change subtitle frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^0.10.0"
+  }
+}
